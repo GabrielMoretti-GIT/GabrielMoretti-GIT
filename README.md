@@ -1,4 +1,4 @@
-## Olá!!! Eu sou o Gabriel Moretti![avatar](https://user-images.githubusercontent.com/106771993/222878250-371a41f4-5011-45f3-b26f-603636a5c8d0.jpg)
+## Olá!!! Eu sou o Gabriel Moretti!
 
 ## Bem vindo ao meu perfil GitHub 👋
 ## Estudo Análise e Desenvolvimento de Sistemas🎓
